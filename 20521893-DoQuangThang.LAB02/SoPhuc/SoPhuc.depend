@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618907536 source:c:\users\dell\documents\sophuc\main.cpp
+	"SoPhuc.h"
+	<iostream>
+
+1618906829 c:\users\dell\documents\sophuc\sophuc.h
+	<iostream>
+
+1618907048 source:c:\users\dell\documents\sophuc\sophuc.cpp
+	"SoPhuc.h"
+	<iostream>
+

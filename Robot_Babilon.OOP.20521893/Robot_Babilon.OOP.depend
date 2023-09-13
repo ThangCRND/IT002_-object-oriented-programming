@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621088959 source:c:\users\dell\documents\robot_babilon.oop\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+

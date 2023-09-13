@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1624044756 source:c:\users\dell\documents\ellipse\circle.cpp
+	"Circle.h"
+
+1624044918 source:c:\users\dell\documents\ellipse\main.cpp
+	"Ellipse.h"
+	"Circle.h"
+	<typeinfo>
+	<iostream>
+
+1624043949 source:c:\users\dell\documents\ellipse\ellipse.cpp
+	"Ellipse.h"
+
+1624043690 c:\users\dell\documents\ellipse\ellipse.h
+	<iostream>
+
+1624045068 c:\users\dell\documents\ellipse\circle.h
+	"Ellipse.h"
+
+1624042244 c:\users\dell\documents\ellipse\ellipse.cpp
+	"Ellipse.h"
+
+1624044756 c:\users\dell\documents\ellipse\circle.cpp
+	"Circle.h"
+

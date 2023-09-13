@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1624350215 source:c:\users\dell\documents\baithifinal\main.cpp
+	<iostream>
+	"Thietbi.h"
+	"Router.h"
+	"MayChu.h"
+	"MayChuWindow.h"
+
+1624350194 source:c:\users\dell\documents\baithifinal\maychu.cpp
+	"MayChu.h"
+	<ctime>
+
+1624346794 source:c:\users\dell\documents\baithifinal\thietbi.cpp
+	"Thietbi.h"
+	<ctime>
+	<time.h>
+
+1624349910 source:c:\users\dell\documents\baithifinal\maychuwindow.cpp
+	"MayChuWindow.h"
+
+1624348829 c:\users\dell\documents\baithifinal\thietbi.h
+	<iostream>
+	<string.h>
+
+1624347873 source:c:\users\dell\documents\baithifinal\router.cpp
+	"Router.h"
+	<ctime>
+
+1624347800 c:\users\dell\documents\baithifinal\router.h
+	"Thietbi.h"
+
+1624349740 c:\users\dell\documents\baithifinal\maychu.h
+	"Thietbi.h"
+
+1624349509 c:\users\dell\documents\baithifinal\maychuwindow.h
+	"MayChu.h"
+

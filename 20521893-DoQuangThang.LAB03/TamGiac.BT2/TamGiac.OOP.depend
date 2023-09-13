@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1622038096 source:c:\users\dell\documents\tamgiac.oop\diem.cpp
+	"Diem.h"
+
+1622037213 c:\users\dell\documents\tamgiac.oop\diem.h
+	<iostream>
+	<math.h>
+
+1622038240 source:c:\users\dell\documents\tamgiac.oop\main.cpp
+	"TamGiac.h"
+
+1622038075 source:c:\users\dell\documents\tamgiac.oop\tamgiac.cpp
+	"TamGiac.h"
+
+1622036710 c:\users\dell\documents\tamgiac.oop\tamgiac.h
+	<iostream>
+	"Diem.h"
+

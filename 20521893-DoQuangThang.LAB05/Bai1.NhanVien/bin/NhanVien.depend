@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623133099 source:c:\users\dell\documents\nhanvien\main.cpp
+	"NhanVien.h"
+
+1623135265 c:\users\dell\documents\nhanvien\nhanvien.h
+	<iostream>
+	<string.h>
+
+1623079693 source:c:\users\dell\documents\nhanvien\nhanvien.cpp
+	"NhanVien.h"
+

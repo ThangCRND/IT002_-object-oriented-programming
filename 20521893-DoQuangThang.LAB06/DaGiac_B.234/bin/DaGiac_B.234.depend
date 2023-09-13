@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1623736668 source:c:\users\dell\documents\dagiac_b.234\dagiac.cpp
+	"DaGiac.h"
+
+1623729665 source:c:\users\dell\documents\dagiac_b.234\diem.cpp
+	"Diem.h"
+
+1623737104 source:c:\users\dell\documents\dagiac_b.234\main.cpp
+	"DaGiac.h"
+	"Vecto.h"
+	"Diem.h"
+	"Tamgiac.h"
+	"Tugiac.h"
+	"Ngugiac.h"
+
+1623733799 source:c:\users\dell\documents\dagiac_b.234\ngugiac.cpp
+	"Ngugiac.h"
+
+1623737237 source:c:\users\dell\documents\dagiac_b.234\tamgiac.cpp
+	"Tamgiac.h"
+
+1623733485 source:c:\users\dell\documents\dagiac_b.234\tugiac.cpp
+	"Tugiac.h"
+
+1623729696 source:c:\users\dell\documents\dagiac_b.234\vecto.cpp
+	"Vecto.h"
+
+1623729289 c:\users\dell\documents\dagiac_b.234\vecto.h
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
+1623729727 c:\users\dell\documents\dagiac_b.234\diem.h
+	"Vecto.h"
+
+1623737277 c:\users\dell\documents\dagiac_b.234\dagiac.h
+	"Vecto.h"
+	"Diem.h"
+	<math.h>
+
+1623737237 c:\users\dell\documents\dagiac_b.234\tamgiac.h
+	"DaGiac.h"
+
+1623737318 c:\users\dell\documents\dagiac_b.234\tugiac.h
+	"DaGiac.h"
+
+1623733721 c:\users\dell\documents\dagiac_b.234\ngugiac.h
+	"DaGiac.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1624027467 source:c:\users\dell\documents\giasuc\bo.cpp
+
+1624027506 source:c:\users\dell\documents\giasuc\cuu.cpp
+
+1624027542 source:c:\users\dell\documents\giasuc\de.cpp
+
+1624028646 source:c:\users\dell\documents\giasuc\giasuc.cpp
+	"GiaSuc.h"
+
+1624028406 c:\users\dell\documents\giasuc\giasuc.h
+	<iostream>
+	<math.h>
+
+1624030557 source:c:\users\dell\documents\giasuc\main.cpp
+	<iostream>
+

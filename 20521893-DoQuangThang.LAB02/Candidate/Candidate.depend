@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620058052 source:c:\users\dell\documents\candidate\candidate.cpp
+	"Candidate.h"
+	<iostream>
+
+1620057285 c:\users\dell\documents\candidate\candidate.h
+	<iostream>
+
+1620057477 source:c:\users\dell\documents\candidate\main.cpp
+	"Test_Candidate.h"
+	<iostream>
+
+1620057966 c:\users\dell\documents\candidate\test_candidate.h
+	<iostream>
+

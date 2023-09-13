@@ -1,0 +1,22 @@
+Nhap so thiet bi: 3
+Chon 1 de nhap Router.
+Chon 2 de nhap May chu.
+Chon 3 de nhap May chu WD.
+Vui long nhap: 1
+Loai thiet bi:Wifi
+Chon 1 de nhap Router.
+Chon 2 de nhap May chu.
+Chon 3 de nhap May chu WD.
+Vui long nhap: 2
+Loai thiet bi:Window
+Chon 1 de nhap Router.
+Chon 2 de nhap May chu.
+Chon 3 de Xuat May chu WD.
+Vui long nhap: 3
+ma dinh danh Thiet bi :1378
+Thoi diem khoi dong:1624350316
+So lan khoi dong : 1
+Muc tieu thu:0
+ He dieu hanhWindows Server 2019
+Muc tieu thu:0
+Thiet bi:Serverda khoi dong lai vao luc1624350316

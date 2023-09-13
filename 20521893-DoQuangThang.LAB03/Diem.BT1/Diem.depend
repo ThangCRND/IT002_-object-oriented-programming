@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621322211 source:c:\users\dell\documents\diem\main.cpp
+	<iostream>
+	"Diem.h"
+
+1621320641 source:c:\users\dell\documents\diem\diem.cpp
+	<iostream>
+	"Diem.h"
+
+1621320684 c:\users\dell\documents\diem\diem.h
+	<iostream>
+	<math.h>
+

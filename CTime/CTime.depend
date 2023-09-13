@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622532995 source:c:\users\dell\documents\ctime\main.cpp
+	"CTime.h"
+
+1622534001 source:c:\users\dell\documents\ctime\ctime.cpp
+	"CTime.h"
+
+1622534001 c:\users\dell\documents\ctime\ctime.h
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1623129909 source:c:\users\dell\documents\job\main.cpp
+	<iostream>
+	"Job.h"
+	"SinhVien.h"
+	"HocSinh.h"
+	"CongNhan.h"
+	"NgheSi.h"
+	"CaSi.h"
+	<string.h>
+
+1623130789 c:\users\dell\documents\job\job.h
+	<iostream>
+	<string.h>
+	<limits>
+
+1623129647 c:\users\dell\documents\job\sinhvien.h
+	"Job.h"
+	<string.h>
+	<iostream>
+
+1623129805 c:\users\dell\documents\job\hocsinh.h
+	"Job.h"
+	<string.h>
+	<iostream>
+
+1623130338 c:\users\dell\documents\job\congnhan.h
+	"Job.h"
+	<string.h>
+	<iostream>
+
+1623130347 c:\users\dell\documents\job\nghesi.h
+	"Job.h"
+	<string.h>
+	<iostream>
+
+1623130098 c:\users\dell\documents\job\casi.h
+	"Job.h"
+	<string>
+	<iostream>
+
+1623129647 source:c:\users\dell\documents\job\sinhvien.cpp
+	"SinhVien.h"
+	<string.h>
+	<iostream>
+
+1623130171 source:c:\users\dell\documents\job\casi.cpp
+	"CaSi.h"
+	<string.h>
+	<iostream>
+
+1623130220 source:c:\users\dell\documents\job\hocsinh.cpp
+	"HocSinh.h"
+	<string.h>
+	<iostream>
+
+1623130275 source:c:\users\dell\documents\job\job.cpp
+	"Job.h"
+	<string.h>
+	<iostream>
+
+1623130338 source:c:\users\dell\documents\job\congnhan.cpp
+	"CongNhan.h"
+	<string.h>
+	<iostream>
+
+1623130229 source:c:\users\dell\documents\job\nghesi.cpp
+	"NgheSi.h"
+	<string.h>
+	<iostream>
+

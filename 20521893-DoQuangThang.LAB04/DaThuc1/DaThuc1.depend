@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623515846 source:c:\users\dell\documents\dathuc1\dathuc1.cpp
+	"Dathuc1.h"
+
+1623515816 c:\users\dell\documents\dathuc1\dathuc1.h
+	<iostream>
+	<math.h>
+
+1623515831 source:c:\users\dell\documents\dathuc1\main.cpp
+	"Dathuc1.h"
+

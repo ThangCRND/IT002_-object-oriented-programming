@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1623685700 source:c:\users\dell\documents\book1\main.cpp
+	"Book.h"
+	"SGK.h"
+	"TieuThuyet.h"
+	"TapChi.h"
+
+1623685960 source:c:\users\dell\documents\book1\sgk.cpp
+	"SGK.h"
+
+1623685971 source:c:\users\dell\documents\book1\tapchi.cpp
+	"TapChi.h"
+
+1623685967 source:c:\users\dell\documents\book1\tieuthuyet.cpp
+	"TieuThuyet.h"
+
+1623685810 source:c:\users\dell\documents\book1\book.cpp
+	"Book.h"
+
+1623683582 c:\users\dell\documents\book1\book.h
+	<iostream>
+	<string.h>
+	<limits>
+
+1623679024 c:\users\dell\documents\book1\sgk.h
+	"Book.h"
+
+1623677177 c:\users\dell\documents\book1\tieuthuyet.h
+	"Book.h"
+
+1623679727 c:\users\dell\documents\book1\tapchi.h
+	"Book.h"
+

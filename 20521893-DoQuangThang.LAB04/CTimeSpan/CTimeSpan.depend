@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623511659 source:c:\users\dell\documents\ctimespan\ctimespan.cpp
+	"CTimeSpan.h"
+
+1623511662 c:\users\dell\documents\ctimespan\ctimespan.h
+	<iostream>
+	<time.h>
+
+1623511658 source:c:\users\dell\documents\ctimespan\main.cpp
+	"CTimeSpan.h"
+
